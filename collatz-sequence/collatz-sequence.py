@@ -1,7 +1,7 @@
 # Automate the Boring Stuff with Python
-# Chapter 3 - Functions
+# Chapter 3 - Functions: The Collatz Sequence
 
-# The Collatz Sequence
+# Collatz sequence function
 def collatz(number):
     if number % 2 == 0:
         print(number // 2)
@@ -12,7 +12,7 @@ def collatz(number):
 
 
 while True:
-    # Input Validation
+    # Input validation
     try:
         number = int(input("Enter number:\n"))
         # Iterate function until number == 1
