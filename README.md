@@ -9,3 +9,5 @@ Following the book [Automate the Boring Stuff with Python](https://automatethebo
 - Chapter 5 - Dictionaries and Structuring Data: [Chess Dictionary Validator](https://github.com/bradley-woods/automate_the_boring_stuff_with_python/tree/main/chess-dictionary-validator), [Fantasy Game Inventory](https://github.com/bradley-woods/automate_the_boring_stuff_with_python/tree/main/fantasy-game-inventory)
 
 - Chapter 6 - Manipulating Strings: [Table Printer](https://github.com/bradley-woods/automate_the_boring_stuff_with_python/tree/main/table-printer)
+
+- Chapter 7 - Pattern Matching with Regular Expressions: [Date Detection](https://github.com/bradley-woods/automate_the_boring_stuff_with_python/tree/main/date-detection), [Strong Password Detection](https://github.com/bradley-woods/automate_the_boring_stuff_with_python/tree/main/strong-password-detection), [Regex Version of the strip() Method](https://github.com/bradley-woods/automate_the_boring_stuff_with_python/tree/main/regex-strip-method)
